@@ -32,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BeltRecycleViewAdaptor.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BeltRecycleViewAdaptor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dean/blackbeltpatterns/BeltRecycleViewAdaptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="42" column="44" lean-forward="false" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+            <state relative-caret-position="170">
+              <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -44,16 +44,14 @@
       </file>
       <file leaf-file-name="belt_header_item_layout.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/belt_header_item_layout.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-              <folding>
-                <element signature="e#542#560#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
@@ -69,30 +67,23 @@
       </file>
       <file leaf-file-name="belt_item_layout.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/belt_item_layout.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-              <folding>
-                <element signature="e#476#494#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeltListActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BeltListActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dean/blackbeltpatterns/BeltListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-              <folding>
-                <element signature="e#1469#2213#0" expanded="true" />
-                <element signature="e#1873#2086#0" expanded="true" />
-                <element signature="e#2085#2086#0" expanded="true" />
-                <element signature="e#2212#2213#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="38" column="51" lean-forward="false" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,7 +91,7 @@
       <file leaf-file-name="ContextWrapper.java" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-23/android/content/ContextWrapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="629">
               <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23046#0" expanded="false" />
@@ -214,14 +205,14 @@
       </file>
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="51">
               <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
           </provider>
         </entry>
       </file>
@@ -1968,11 +1959,11 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/dean/blackbeltpatterns/belt/BeltItem.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/dean/blackbeltpatterns/viewholder/BeltHolder.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/dean/blackbeltpatterns/BeltRecycleViewAdaptor.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/belt_header_item_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/belt_item_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/dean/blackbeltpatterns/BeltListActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/dean/blackbeltpatterns/BeltRecycleViewAdaptor.java" />
       </list>
     </option>
   </component>
@@ -1997,31 +1988,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BlackBeltPatterns" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BlackBeltPatterns" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2244,8 +2210,33 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlackBeltPatterns" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlackBeltPatterns" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2347,8 +2338,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1514468875771" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1514548800468" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2395,8 +2385,7 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1514468875771" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1514548800469" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2428,27 +2417,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -2578,8 +2546,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1514468875772" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1514548800492" />
       </method>
     </configuration>
     <list size="1">
@@ -2625,36 +2592,36 @@
     <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39869282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2990196" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2987897" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24281392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39869282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2987897" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2696,9 +2663,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1309">
           <caret line="92" column="1" lean-forward="true" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2706,10 +2671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#233#234#0" expanded="false" />
-            <element signature="e#267#268#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2717,12 +2678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding>
-            <element signature="e#37#159#0" expanded="false" />
-            <element signature="e#194#337#0" expanded="false" />
-            <element signature="e#480#551#0" expanded="false" />
-            <element signature="e#586#657#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2758,14 +2713,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/belt_header_item_layout.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -2788,11 +2743,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#531#532#0" expanded="false" />
-            <element signature="e#571#572#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2807,12 +2758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#37#159#0" expanded="false" />
-            <element signature="e#194#337#0" expanded="false" />
-            <element signature="e#480#551#0" expanded="false" />
-            <element signature="e#586#657#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2843,9 +2788,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2858,14 +2801,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/belt_header_item_layout.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -2888,11 +2831,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#531#532#0" expanded="false" />
-            <element signature="e#571#572#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2900,12 +2839,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#37#159#0" expanded="false" />
-            <element signature="e#194#337#0" expanded="false" />
-            <element signature="e#480#551#0" expanded="false" />
-            <element signature="e#586#657#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2936,9 +2869,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="70" column="30" lean-forward="true" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2951,14 +2882,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/belt_header_item_layout.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
@@ -2973,11 +2904,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#531#532#0" expanded="false" />
-            <element signature="e#571#572#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2985,9 +2912,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3000,13 +2925,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/belt_list_activity.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -3050,12 +2975,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding>
-            <element signature="e#37#159#0" expanded="false" />
-            <element signature="e#194#337#0" expanded="false" />
-            <element signature="e#480#551#0" expanded="false" />
-            <element signature="e#586#657#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3063,10 +2982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#233#234#0" expanded="false" />
-            <element signature="e#267#268#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3074,7 +2989,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3097,7 +3011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="6492" column="0" lean-forward="false" selection-start-line="6492" selection-start-column="0" selection-end-line="6492" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3117,14 +3030,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dean/blackbeltpatterns/BeltRecycleViewAdaptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="42" column="44" lean-forward="false" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -3134,45 +3039,41 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/belt_header_item_layout.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="e#542#560#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/belt_item_layout.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding>
-            <element signature="e#476#494#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="51">
           <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-23/android/content/ContextWrapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="629">
           <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding>
             <element signature="e#0#23046#0" expanded="false" />
@@ -3287,31 +3188,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="533" column="0" lean-forward="false" selection-start-line="533" selection-start-column="0" selection-end-line="533" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28951#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#18145#18146#0" expanded="false" />
-            <element signature="e#18210#18211#0" expanded="false" />
-            <element signature="e#18296#18297#0" expanded="false" />
-            <element signature="e#18333#18334#0" expanded="false" />
-            <element signature="e#18623#18624#0" expanded="false" />
-            <element signature="e#18658#18659#0" expanded="false" />
-            <element signature="e#19205#19206#0" expanded="false" />
-            <element signature="e#19263#19264#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dean/blackbeltpatterns/BeltListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <element signature="e#1469#2213#0" expanded="true" />
-            <element signature="e#1873#2086#0" expanded="true" />
-            <element signature="e#2085#2086#0" expanded="true" />
-            <element signature="e#2212#2213#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="38" column="51" lean-forward="false" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dean/blackbeltpatterns/BeltRecycleViewAdaptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
